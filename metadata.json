@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Flora Gardening Assistant",
+  "description": "An AI-powered gardening companion that identifies plants from photos and provides personalized care instructions and expert advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
